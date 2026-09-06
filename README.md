@@ -11,7 +11,7 @@
 <a href="index.html" class="brand">
 <span class="brand-mark">✦</span>
 <span>
-<strong>Truth in God of the Elect:</strong>
+<strong>Truth in God of the Elect - </strong>
 <small>Seek truth. Pray. Research. Discern.</small>
 </span>
 </a>
