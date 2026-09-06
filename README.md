@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="site-header">
+<div class="header-inner">
+
+<a href="index.html" class="brand">
+<span class="brand-mark">✦</span>
+<span>
+<strong>Truth in God of the Elect</strong>
+<small>Seek truth. Pray. Research. Discern.</small>
+</span>
+</a>
+
 <!--
 **Truth-in-God/truth-in-god** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
