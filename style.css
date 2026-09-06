@@ -63,6 +63,13 @@ a {
   gap: 12px;
 }
 
+.flame-logo img {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  display: block;
+}
+
 .brand-mark img {
   width: 25px;
   height: 25px;
