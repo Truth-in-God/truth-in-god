@@ -63,9 +63,11 @@ a {
   gap: 12px;
 }
 
-.brand-mark {
-  color: var(--gold);
-  font-size: 27px;
+.brand-mark img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  display: block;
 }
 
 .brand strong {
